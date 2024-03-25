@@ -9,7 +9,7 @@ This is a simple CSS and HTML page that can be used as a starting point for buil
 - amazing animations
 
 ## Installation
-1. Clone the repository: git clone https://github.com/engMaya22/Food-Katty-Template.git](https://github.com/engMaya22/Simple-Shoe-View.git
+1. Clone the repository: git clone https://github.com/engMaya22/Simple-Shoe-Landing-Page.git
 2. Open the index.html file in your browser to view the template
 
 ## Usage
